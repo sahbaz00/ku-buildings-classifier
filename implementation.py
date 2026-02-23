@@ -48,20 +48,3 @@ for filename in os.listdir(test_folder):
     full_image_path = os.path.join(test_folder, filename)
     predict_single_image(full_image_path, model, loaded_class_mapping)
     
-def salam(x):
-    print(x)
-
-salam('Anar')
-
-def saqol(x):
-    print(x)
-
-saqol("Shahbaz")
-
-def bashuvaa(x):
-    print(x=(x,"Bashuvaa"))
-
-bashuvaa(x="mama qurban")
-
-def oglan_igid_qiz_qesey(abucu=True):
-    print(abucu)
