@@ -52,3 +52,8 @@ def salam(x):
     print(x)
 
 salam('Anar')
+
+def saqol(x):
+    print(x)
+
+saqol("Shahbaz")
