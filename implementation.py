@@ -20,18 +20,18 @@ def predict_single_image(image_path, model, class_mapping, verbose = False):
     
     predicted_building = class_mapping[predicted_index]
     
-    if verbose = False:
+    if verbose == False:
         print("-" * 30)
         print(f"Prediction:  {predicted_building.upper()}")
         print(f"Confidence:  {confidence_score:.2f}%")
         print("-" * 30)
     
-    elif verbose = True:
-        print("-" * 30)
-        print(f"Prediction:  {predicted_building.upper()}")
-        print(f"Confidence:  {confidence_score:.2f}%")
-        print("-" * 30)
-        additionally I want to show the other classes and their confidences
+    # elif verbose = True:
+    #     print("-" * 30)
+    #     print(f"Prediction:  {predicted_building.upper()}")
+    #     print(f"Confidence:  {confidence_score:.2f}%")
+    #     print("-" * 30)
+    #     additionally I want to show the other classes and their confidences
         
         
     
