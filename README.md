@@ -1,7 +1,3 @@
-Here is a professional, beautifully formatted `README.md` file based exactly on the specifications you provided. It tells the story of your project, explains your architectural decisions (like switching to Adam and consolidating classes), and gives clear instructions for anyone who visits your repo.
-
-You can copy everything inside the code block below and paste it directly into your `README.md` file:
-
 ```markdown
 # KU Ingolstadt Building Classifier 🏫
 
