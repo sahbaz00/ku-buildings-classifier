@@ -59,6 +59,7 @@ We built a custom CNN using Keras `Sequential` API.
  ┣ 📜 implementation.py  # Real-time inference script for new images
  ┣ 📜 requirements.txt   # Python dependencies
  ┗ 📜 README.md
+```
 
 ## 🚀 How to Run Locally
 
