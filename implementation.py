@@ -62,4 +62,6 @@ def bashuvaa(x):
     print(x=(x,"Bashuvaa"))
 
 bashuvaa(x="mama qurban")
-    
+
+def oglan_igid_qiz_qesey(abucu=True):
+    print(abucu)
