@@ -66,6 +66,8 @@ We built a custom CNN using Keras `Sequential` API.
 
 ```bash
 git clone https://github.com/sahbaz00/ku-buildings-classifier.git
+cd ku-buildings-classifier
+
 ```
 
 **2. Install Dependencies**
